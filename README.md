@@ -2,7 +2,7 @@
 ## PP360/PP360** es mi repositorio ✨ Personal ✨ 
 ### Al parecer llego tarde a la cita con GitHub, pero ya estamos acá
 
-###Acerca de mí
+### Acerca de mí
 
 - 🔭 Actualmente trabajo en TecNM Campus Region Sierra
 - 🌱 Estoy intentando aprender Kotlin, Ionic, React Native (expo)
