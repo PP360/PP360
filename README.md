@@ -1,5 +1,6 @@
 ## Hola a todos 👋
-## PP360/PP360** es mi repositorio ✨ Personal ✨ 
+## ✨**PP360/PP360 es mi repositorio Personal ✨** 
+
 ### Al parecer llego tarde a la cita con GitHub, pero ya estamos acá
 
 ### Acerca de mí
@@ -10,3 +11,5 @@
 - 🤔 También estoy interesado en desarrollar apps para iOS.
 - 💬 Tal vez podría ayudar en proyectos básicos de  C#, As .net, VB y cualquier proyecto de programación meramente
   académicos en donde se requiera de lógica computacional y manejo de sintaxis.
+
+  ### El conocimiento del hombre le pertenece al mundo
