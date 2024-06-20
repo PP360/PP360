@@ -1,13 +1,12 @@
 ## Hola a todos 👋
+## PP360/PP360** es mi repositorio ✨ Personal ✨ 
+### Al parecer llego tarde a la cita con GitHub, pero ya estamos acá
 
-<!--
-**PP360/PP360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Acerca de mí
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on TecNM Campus Region Sierra
-- 🌱 I’m currently learning Kotlin, Ionic, React Native (expo)
-- 👯 I’m looking to collaborate on Web apps and android apps
-- 🤔 I’m looking for help with
-- 💬 Ask me about  C#, As .net
--->
+- 🔭 Actualmente trabajo en TecNM Campus Region Sierra
+- 🌱 Estoy intentando aprender Kotlin, Ionic, React Native (expo)
+- 👯 He colaborado en desarrollos web ASP .Net y en algunos proyectos de Web apps and android apps
+- 🤔 También estoy interesado en desarrollar apps para iOS.
+- 💬 Tal vez podría ayudar en proyectos básicos de  C#, As .net, VB y cualquier proyecto de programación meramente
+  académicos en donde se requiera de lógica computacional y manejo de sintaxis.
